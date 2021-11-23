@@ -1,4 +1,4 @@
-# Challenges-Grafikart---Calculateur-d-impôt
+# Challenges Grafikart Calculateur d'impôt
 
 Création d'un calculateur d'impôt en Angular, voici l'énoncé du challenge:
 
